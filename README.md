@@ -1,3 +1,6 @@
+![Game Version](https://img.shields.io/badge/wow-3.3.5-blue.svg)
+[![Discord](https://discordapp.com/api/guilds/259362419372064778/widget.png?style=shield)](https://discord.gg/7SE2eR8T7H)
+
 # Fish Cliker Detector:
 ## 📖 Descripción
 
