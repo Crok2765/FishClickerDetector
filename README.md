@@ -1,5 +1,5 @@
 ![Game Version](https://img.shields.io/badge/wow-3.3.5-blue.svg)
-[![Discord](https://discordapp.com/api/guilds/259362419372064778/widget.png?style=shield)](https://discord.gg/7SE2eR8T7H)
+[![Discord](https://discordapp.com/api/guilds/816470147597467668/widget.png?style=shield)](https://discord.gg/7SE2eR8T7H)
 ![Version](https://img.shields.io/badge/Version-1.0-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
