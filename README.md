@@ -4,7 +4,7 @@
 Fish Clicker Detector es un addon para World of Warcraft 3.3.5a diseñado para identificar a los jugadores que interactúan repetidamente con los Festines de Pescado durante las raids. Incluye un sistema de anuncios automáticos totalmente configurable y una interfaz sencilla para personalizar su funcionamiento.
 
 > [!NOTE]
-> Compatible con World of
+> Compatible con World of Warcraft 3.3.5a.
 
 >[!TIP]
 > Detecta automáticamente al culpable que hace spam de clics en los Festines de Pescado y anúncialo a toda la raid con mensajes personalizados.
